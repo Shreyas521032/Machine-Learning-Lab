@@ -43,7 +43,6 @@ The notebooks in this repository likely cover a wide range of ML topics, includi
     * PCA
 * Introduction to Deep Learning
     * ANN
-    * CNN
 
 ## 🚀 How to Use
 
