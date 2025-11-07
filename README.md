@@ -6,22 +6,22 @@ This repository contains a collection of 15 Jupyter notebooks from a Machine Lea
 
 Here is a list of all the practicals included in this repository. You can add a brief description for each one as you complete them.
 
-* **Practical 1:** [ML Lab Practical 1.ipynb](ML%20Lab%20Practical%201.ipynb) - *(Add description, e.g., "Introduction to Python, NumPy, and Pandas")*
-* **Practical 2:** [ML Lab Practical 2.ipynb](ML%20Lab%20Practical%202.ipynb) - *(Add description, e.g., "Data Preprocessing and Visualization")*
-* **Practical 3:** [ML Lab Practical 3.ipynb](ML%20Lab%20Practical%203.ipynb) - *(Add description, e.g., "Simple Linear Regression")*
-* **Practical 4:** [ML Lab Practical 4.ipynb](ML%20Lab%20Practical%204.ipynb) - *(Add description, e.g., "Multiple Linear Regression")*
-* **Practical 5:** [ML Lab Practical 5.ipynb](ML%20Lab%20Practical%205.ipynb) - *(Add description, e.g., "Logistic Regression")*
-* **Practical 6:** [ML Lab Practical 6.ipynb](ML%20Lab%20Practical%206.ipynb) - *(Add description, e.g., "K-Nearest Neighbors (k-NN)")*
-* **Practical 7:** [ML Lab Practical 7.ipynb](ML%20Lab%20Practical%207.ipynb) - *(Add description, e.g., "Support Vector Machine (SVM)")*
-* **Practical 8:** [ML Lab Practical 8.ipynb](ML%20Lab%20Practical%208.ipynb) - *(Add description, e.g., "Decision Trees")*
-* **Practical 9:** [ML Lab Practical 9.ipynb](ML%20Lab%20Practical%209.ipynb) - *(Add description, e.g., "Naive Bayes Classifier")*
-* **Practical 10:** [ML Lab Practical 10.ipynb](ML%20Lab%20Practical%2010.ipynb) - *(Add description, e.g., "Random Forest")*
-* **Practical 11:** [ML Lab Practical 11.ipynb](ML%20Lab%20Practical%2011.ipynb) - *(Add description, e.g., "K-Means Clustering")*
-* **Practical 12:** [ML Lab Practical 12.ipynb](ML%20Lab%20Practical%2012.ipynb) - *(Add description, e.g., "Hierarchical Clustering")*
-* **Practical 13:** [ML Lab Practical 13.ipynb](ML%20Lab%20Practical%2013.ipynb) - *(Add description, e.g., "Principal Component Analysis (PCA)")*
-* **Practical 14:** [ML Lab Practical 14.ipynb](ML%20Lab%20Practical%2014.ipynb) - *(Add description, e.g., "Introduction to
+* **Practical 1:** [ML Lab Practical 1.ipynb](ML%20Lab%20Practical%201.ipynb) - *("Introduction to Python, NumPy, and Pandas")*
+* **Practical 2:** [ML Lab Practical 2.ipynb](ML%20Lab%20Practical%202.ipynb) - *("Data Preprocessing and Visualization")*
+* **Practical 3:** [ML Lab Practical 3.ipynb](ML%20Lab%20Practical%203.ipynb) - *("Simple Linear Regression")*
+* **Practical 4:** [ML Lab Practical 4.ipynb](ML%20Lab%20Practical%204.ipynb) - *("Multiple Linear Regression")*
+* **Practical 5:** [ML Lab Practical 5.ipynb](ML%20Lab%20Practical%205.ipynb) - *("Logistic Regression")*
+* **Practical 6:** [ML Lab Practical 6.ipynb](ML%20Lab%20Practical%206.ipynb) - *("K-Nearest Neighbors (k-NN)")*
+* **Practical 7:** [ML Lab Practical 7.ipynb](ML%20Lab%20Practical%207.ipynb) - *("Support Vector Machine (SVM)")*
+* **Practical 8:** [ML Lab Practical 8.ipynb](ML%20Lab%20Practical%208.ipynb) - *("Decision Trees")*
+* **Practical 9:** [ML Lab Practical 9.ipynb](ML%20Lab%20Practical%209.ipynb) - *("Naive Bayes Classifier")*
+* **Practical 10:** [ML Lab Practical 10.ipynb](ML%20Lab%20Practical%2010.ipynb) - *("Random Forest")*
+* **Practical 11:** [ML Lab Practical 11.ipynb](ML%20Lab%20Practical%2011.ipynb) - *("K-Means Clustering")*
+* **Practical 12:** [ML Lab Practical 12.ipynb](ML%20Lab%20Practical%2012.ipynb) - *("Hierarchical Clustering")*
+* **Practical 13:** [ML Lab Practical 13.ipynb](ML%20Lab%20Practical%2013.ipynb) - *("Principal Component Analysis (PCA)")*
+* **Practical 14:** [ML Lab Practical 14.ipynb](ML%20Lab%20Practical%2014.ipynb) - *("Introduction to
     Artificial Neural Networks (ANN)")*
-* **Practical 15:** [ML Lab Practical 15.ipynb](ML%20Lab%20Practical%2015.ipynb) - *(Add description, e.g., "Introduction to Convolutional Neural Networks (CNN)")*
+* **Practical 15:** [ML Lab Practical 15.ipynb](ML%20Lab%20Practical%2015.ipynb) - *("Introduction to Convolutional Neural Networks (CNN)")*
 
 ## 📚 Topics Covered
 
